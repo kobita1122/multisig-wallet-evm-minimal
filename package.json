@@ -1,0 +1,11 @@
+{
+  "name": "multisig-wallet-evm-minimal",
+  "version": "1.0.0",
+  "description": "Minimal M-of-N Multi-Signature Wallet for EVM",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  }
+}
